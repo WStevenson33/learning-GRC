@@ -2,8 +2,10 @@
 ## A list of resources I am using to gain an understanding of GRC
 ### Training Material
 #### Courses
-- **Implemeting the NIST Cybersecurity Framework (CSF)** by Jason Dion & Kip Boyle
+- **Implementing the NIST Cybersecurity Framework (CSF)** by Jason Dion & Kip Boyle
   - [Udemy Course](https://www.udemy.com/course/nist-cybersecurity-framework/)
+- **Implementing the NIST Risk Management Framework (RMF)**
+  - [Udemy Course](https://www.udemy.com/course/nist-risk-management-framework/)
 - **The Definitive GRC Analyst Master Class** by Gerard Auger, PhD
    - https://simplycyber.teachable.com/p/the-definitive-grc-analyst-program
 - **NIST Risk Management Framework Introductory course**
@@ -29,7 +31,7 @@
 - **Boyd Clewis**  https://www.youtube.com/@BoydClewis
 ### Tools
 - **CISA** https://www.cisa.gov/forms/csetiso
-- **Servicenow**
+- **Servicenow** [Servicenow GRC demo](https://www.servicenow.com/lpdem/demonow-grc.html?campid=83291&cid=p:risk:dg:allterms:prsp:exa:NoEngine_Global_PRSP_GRCDemoTestPage_General_V2:global:all&s_kwcid=AL!11692!3!!e!!o!!servicenow%20grc&ds_c=BING_AMS_All_EN_DEMANDGEN_RISK_PRSP_Brand_EXA_Top-Res&cmcid=71700000097385150&ds_ag=ServiceNow+GRC_EXA-Top&cmpid=58700007918845315&ds_kids=p71995846951&gclid=26266bf4b1721cb6b9ad0efee0885c72&gclsrc=3p.ds&msclkid=26266bf4b1721cb6b9ad0efee0885c72&utm_source=bing&utm_medium=cpc&utm_campaign=BING_AMS_All_EN_DEMANDGEN_RISK_PRSP_Brand_EXA_Top-Res&utm_term=servicenow%20grc&utm_content=ServiceNow%20GRC_EXA-Top)
 ### Podcasts
 - [**Cyber Security Headlines CISO Series**](https://cisoseries.com/category/podcast/cyber-security-headlines/)
 - [**Simply Cyber**](https://www.simplycyber.io/podcast)
