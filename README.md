@@ -3,15 +3,15 @@
 ### Training Material
 #### Courses
 - **Implemeting the NIST Cybersecurity Framework (CSF)** by Jason Dion & Kip Boyle
-  - Udemy Course
+  - [Udemy Course](https://www.udemy.com/course/nist-cybersecurity-framework/)
 - **The Definitive GRC Analyst Master Class** by Gerard Auger, PhD
    - https://simplycyber.teachable.com/p/the-definitive-grc-analyst-program
 - **NIST Risk Management Framework Introductory course**
   - https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html
 - **Pratical Assessments for Cybersecurity & GRC Professionals** by Richea Perry
-  -  Udemy Course
+  -  [Udemy Course](https://www.udemy.com/course/practical-assessments-for-cybersecurity-grc-professionals/)
 - **Fundamentals of PCI-DSS**
-  -  Udemy Course
+  - [Udemy Course](https://www.udemy.com/course/fundamentals-pci-dss/?kw=fundamental+pci&src=sac)
 #### Books
 - **NIST Cybersecurity Framework For Information Systems Security** by Bruce Brown 
   -  [NIST CSF](https://www.amazon.com/Cybersecurity-Framework-Information-Systems-Security/dp/B0C8QLP1PL/ref=asc_df_B0C8QLP1PL?tag=bingshoppinga-20&linkCode=df0&hvadid=80195816498319&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795282331350&psc=1)
@@ -30,3 +30,9 @@
 ### Tools
 - **CISA** https://www.cisa.gov/forms/csetiso
 - **Servicenow**
+### Podcasts
+- [**Cyber Security Headlines CISO Series**](https://cisoseries.com/category/podcast/cyber-security-headlines/)
+- [**Simply Cyber**](https://www.simplycyber.io/podcast)
+- [**Your Cyber Path**](https://www.yourcyberpath.com/podcasts/)
+- [**SecurityMetrics Podcast**](https://www.securitymetrics.com/learn/podcast)
+- [**The GRC Podcast**](https://www.thegrcpodcast.com/episodes)
