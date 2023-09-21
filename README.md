@@ -46,7 +46,10 @@
   - industry-mandated set of standards designed to ensure the security of consumers’ card data when used with merchants and service providers1. It provides guidelines and requirements for organizations involved in payment card processing to protect sensitive information and prevent fraud
   - [PCI DSS Quick Reference Guide](https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf)
 - HIPAA
+  - focuses on the safeguarding of electronic protected health information (EPHI)
 - Sarbanes-Oxley (SOX)
+  - offers guidelines and spells out regulations that publicly traded companies must adhere to
+  - protect investors by preventing fraudulent accounting and financial practices at publicly traded companies 
 - SOC2
 ### Youtube Channels
 - **Gerard Auger** https://www.youtube.com/@SimplyCyber
