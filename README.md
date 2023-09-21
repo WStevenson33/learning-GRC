@@ -33,24 +33,24 @@
    -  covers the information system security officer does at each step in the process and where their attention should be focused
    -  [RMF ISSO Foundations Guide](https://www.amazon.com/RMF-ISSO-Foundations-Cybersecurity-Professionals/dp/B0B2J881KF/ref=pd_bxgy_img_sccl_2/143-0407581-0297234?pd_rd_w=X6V2S&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=K1BRGXXGC67CVX1NNX9B&pd_rd_wg=dC9uy&pd_rd_r=b4d88640-4d14-46af-8639-636d684a60f2&pd_rd_i=B0B2J881KF&psc=1)
 ### Frameworks
-- NIST SP 800-53 
+- **NIST SP 800-53** 
   - a comprehensive catalog of security and privacy controls for information systems and organizations
   - provides a set of safeguarding measures to protect organizational operations, assets, individuals, other organizations, and the nation from various threats and risks, including hostile attacks, human errors, natural disasters, structural failures, foreign intelligence entities, and privacy risks
   - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-- NIST SP 800-37
+- **NIST SP 800-37**
   - describes the Risk Management Framework (RMF) and provides guidelines for applying the RMF to information systems and organizations
   - a disciplined, structured, and flexible process for managing security and privacy risk
   - It includes activities such as information security categorization, control selection, implementation, and assessment, system and common control authorizations, continuous monitoring, and more
   - [NIST SP 800-27 Rev. 2](https://csrc.nist.gov/pubs/sp/800/37/r2/final)
-- PCI DSSS
+- **PCI DSSS**
   - industry-mandated set of standards designed to ensure the security of consumers’ card data when used with merchants and service providers1. It provides guidelines and requirements for organizations involved in payment card processing to protect sensitive information and prevent fraud
   - [PCI DSS Quick Reference Guide](https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf)
-- HIPAA
+- **HIPAA**
   - focuses on the safeguarding of electronic protected health information (EPHI)
-- Sarbanes-Oxley (SOX)
+- **Sarbanes-Oxley (SOX)**
   - offers guidelines and spells out regulations that publicly traded companies must adhere to
   - protect investors by preventing fraudulent accounting and financial practices at publicly traded companies 
-- SOC2
+- **SOC2**
 ### Youtube Channels
 - **Gerard Auger** https://www.youtube.com/@SimplyCyber
 - **Boyd Clewis**  https://www.youtube.com/@BoydClewis
